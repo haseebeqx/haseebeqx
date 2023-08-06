@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi, I'm Haseeb  👋
 
-<!--
-**haseebeqx/haseebeqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Full Stack Engineer with 7 years of total software development experience. I'm currently open to new freelance or full-time roles.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ruby on Rails**: 7 years (Expert)
+- **ReactJS**: 4 years (Expert)
+- **Additional Skills**: NodeJS, React Native, VueJS, Typescript, AWS
+
+## 🔍 I'm currently looking for new opportunities
+
+I'm open to new freelance or full-time roles. Feel free to reach out to me.
+
+You can use this [Contact form](https://forms.gle/Vo2B6hRXvhmDMSJo9) or connect with me on [LinkedIn](https://www.linkedin.com/in/haseeb-a-45590868/).
+
+## 👨‍💻 Work Experience
+
+### Freelance
+**Senior Full Stack Developer** (Apr 23 - Present)
+
+
+### Gleam.io
+**Senior Full Stack Developer** (Apr 22 - Apr 23)
+
+Gleam is a marketing platform that helps businesses engage and promote their brand. It is a SaaS app for growth hacking social media campaigns.
+
+### Bigbinary
+**Software Engineer** (Jan 19 - Apr 22)
+
+BigBinary is a software development company that specializes in Ruby on Rails, React, and React Native.
+
+### Innoventes Technologies
+**Member Of Technical Staff** (Aug 16 - Dec 19)
+
+Innoventes Technologies is a Bangalore-based product engineering services company.
+
+## 🎓 Education
+
+**Bachelor Of Technology** (Jun 12 - Aug 16)
+
+University Of Calicut, Majored in Computer Science and Engineering
