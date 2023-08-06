@@ -6,7 +6,7 @@ I'm a Senior Full Stack Engineer with 7 years of total software development expe
 
 - **Ruby on Rails**: 7 years (Expert)
 - **ReactJS**: 4 years (Expert)
-- **Additional Skills**: NodeJS, React Native, VueJS, Typescript
+- **Additional Skills**: NodeJS, React Native, VueJS, Typescript and Tailwind CSS
 
 ## 🔍 I'm currently looking for new opportunities
 
