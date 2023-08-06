@@ -10,6 +10,6 @@ I'm a Senior Full Stack Engineer with 7 years of total software development expe
 
 ## 🔍 I'm currently looking for new opportunities
 
-I'm open to new freelance or full-time roles. Feel free to reach out to me.
+I'm open to new freelance or full-time roles (Remote - Global, Onsite - India/UAE ). Feel free to reach out to me.
 
 You can use this [Contact form](https://forms.gle/Vo2B6hRXvhmDMSJo9) or connect with me on [LinkedIn](https://www.linkedin.com/in/haseeb-a-45590868/).
