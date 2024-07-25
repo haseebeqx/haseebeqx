@@ -12,5 +12,3 @@ I'm a Senior Full Stack Engineer with 8 years of software development experience
 - Experienced in Performance optimizations, LLMs and GraphQL
 
 You can use this [Contact form](https://forms.gle/Vo2B6hRXvhmDMSJo9) or connect with me on [LinkedIn](https://www.linkedin.com/in/haseeb-a-45590868/). 
-
-Follow me on<a rel="me" href="https://ruby.social/@haseebeqx">Mastodon</a>
