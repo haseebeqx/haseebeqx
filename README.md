@@ -3,4 +3,9 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 
-You can use this [Contact form](https://forms.gle/Vo2B6hRXvhmDMSJo9) or connect with me on [LinkedIn](https://www.linkedin.com/in/haseeb-a-45590868/). 
+You can use this [Contact form](https://haseebeqx.com/contact-me/) or connect with me on [LinkedIn](https://www.linkedin.com/in/haseeb-a-45590868/). 
+
+# Available for new opportunities
+
+I am looking for a new job. I have remotely worked with clients from all around the world. Contact me if you are looking for a dev https://haseebeqx.com/contact-me/
+
