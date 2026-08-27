@@ -77,8 +77,5 @@ Turn a repeatable research or operational process into a focused workflow with s
 
 <div align="center">
 
-### Contact
-
-[**Let's discuss the work →**](https://haseebeqx.com/contact-me/)
-
+[Contact](https://haseebeqx.com/contact-me/) | [Testimonials](https://haseebeqx.com/#testimonials) | [Posts](https://haseebeqx.com/posts/)
 </div>
