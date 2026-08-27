@@ -2,16 +2,16 @@
 
 <div align="center">
 
-I help teams **automate practical workflows with AI** and improve **established Rails applications**.
+I help teams improve **established Rails applications**. and **automate practical workflows with AI**
 
 [![Website](https://img.shields.io/badge/Website-haseebeqx.com-D6FF62?style=for-the-badge&logo=safari&logoColor=17352F)](https://haseebeqx.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-a-45590868/)
 [![Ruby.Social](https://img.shields.io/badge/Ruby.Social-Follow-CC342D?style=for-the-badge&logo=mastodon&logoColor=white)](https://ruby.social/@haseebeqx)
 
 </div>
-
-## What I can help with
-
+<div align="center">
+# Services
+</div>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -55,6 +55,7 @@ Turn a repeatable research or operational process into a focused workflow with s
 |---|---|---|
 | [**reddit-pain-research-skill**](https://github.com/haseebeqx/reddit-pain-research-skill) | A reusable customer-research method with sourced evidence, structured artifacts, validation, and an approval checkpoint. | Skills · Research · Validation |
 | [**pi-runbooks**](https://github.com/haseebeqx/pi-runbooks) | Turns repeatable agent work into versioned runbooks with approval gates, checkpoints, and output verification. | TypeScript · Agent workflows |
+| [**pi-agent-lib**](https://github.com/haseebeqx/pi-agent-lib) | Wraps the Pi SDK with consistent agent isolation, lifecycle management, resource discovery, and multi-agent runtime conventions. | TypeScript · Pi SDK · Agents |
 | [**pi-ship**](https://github.com/haseebeqx/pi-ship) | Deploys Pi to SSH-accessible Linux servers for terminal, Telegram, or Slack access. | TypeScript · Linux · Deployment |
 
 ## Tools I work with
