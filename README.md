@@ -10,7 +10,9 @@ I help teams improve **established Rails applications**. and **automate practica
 
 </div>
 <div align="center">
+
 # Services
+
 </div>
 <table>
 <tr>
