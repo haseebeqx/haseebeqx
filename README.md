@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I help teams improve **established Rails applications**. and **automate practical workflows with AI**
+I help teams improve **established Rails applications** and **automate practical workflows with AI**
 
 [![Website](https://img.shields.io/badge/Website-haseebeqx.com-D6FF62?style=for-the-badge&logo=safari&logoColor=17352F)](https://haseebeqx.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-a-45590868/)
