@@ -1,5 +1,11 @@
-# Hi, I'm Haseeb  👋
+# Hi, I'm Haseeb 👋
+
+## Services
+
+- [Performance sprint](https://haseebeqx.com/services/rails-performance-sprint/) — Diagnose and improve Rails and PostgreSQL performance.
+- [Rails consulting](https://haseebeqx.com/services/rails-consulting/) — Modernization, integrations, background jobs, and senior contract engineering.
+- [Rails + AI](https://haseebeqx.com/services/rails-ai/) — Add useful AI-assisted features to an existing Rails product.
+- [AI workflows](https://haseebeqx.com/services/ai-workflows/) — Turn repeatable research or operational processes into focused, reviewable workflows.
 
 
-You can use this [Contact form](https://haseebeqx.com/contact-me/) or connect with me on [LinkedIn](https://www.linkedin.com/in/haseeb-a-45590868/). 
-
+[View my website](https://haseebeqx.com) · [Discuss a project](https://haseebeqx.com/contact-me/) · [Connect on LinkedIn](https://www.linkedin.com/in/haseeb-a-45590868/)
