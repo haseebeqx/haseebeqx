@@ -1,4 +1,4 @@
-![Haseeb Annadamban — Software Engineer and Consultant](./assets/profile-banner.svg)
+[![Haseeb Annadamban — Software Engineer and Consultant](./assets/profile-banner.svg)](https://haseebeqx.com)
 
 <div align="center">
 
