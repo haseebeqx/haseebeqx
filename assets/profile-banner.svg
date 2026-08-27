@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Haseeb Annadamban — Software Engineer and Consultant</title>
+  <desc id="desc">Build the new. Strengthen what exists.</desc>
+  <rect width="1200" height="320" rx="24" fill="#17352f"/>
+  <circle cx="1100" cy="-15" r="190" fill="#d6ff62" opacity=".92"/>
+  <circle cx="1130" cy="285" r="105" fill="none" stroke="#f3efe5" stroke-width="2" opacity=".35"/>
+  <circle cx="1040" cy="235" r="18" fill="#d6ff62"/>
+  <path d="M0 278 C210 220 350 342 590 270 S930 220 1200 275 V320 H0Z" fill="#214b42"/>
+  <path d="M70 68h54" stroke="#d6ff62" stroke-width="5"/>
+  <text x="70" y="132" fill="#f3efe5" font-family="Georgia, serif" font-size="52" font-weight="700">Haseeb Annadamban</text>
+  <text x="70" y="180" fill="#d6ff62" font-family="Arial, sans-serif" font-size="23" letter-spacing="3">SOFTWARE ENGINEER · CONSULTANT</text>
+  <text x="70" y="235" fill="#f3efe5" font-family="Georgia, serif" font-size="29" font-style="italic">Build the new. Strengthen what exists.</text>
+</svg>
