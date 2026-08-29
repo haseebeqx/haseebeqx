@@ -18,7 +18,7 @@ I help teams improve **established Rails applications** and **automate practical
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Rails performance sprint](https://haseebeqx.com/services/rails-performance-sprint/)
+### ⚡ [Rails performance optimization service](https://haseebeqx.com/services/rails-performance-optimization/)
 
 Find the real bottlenecks in a Rails and PostgreSQL application, then turn the diagnosis into measurable improvements.
 
