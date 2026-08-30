@@ -6,6 +6,7 @@ I help teams improve **established Rails applications** and **automate practical
 
 [![Website](https://img.shields.io/badge/Website-haseebeqx.com-D6FF62?style=for-the-badge&logo=safari&logoColor=17352F)](https://haseebeqx.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-a-45590868/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/haseebeqx)
 [![Ruby.Social](https://img.shields.io/badge/Ruby.Social-Follow-CC342D?style=for-the-badge&logo=mastodon&logoColor=white)](https://ruby.social/@haseebeqx)
 
 </div>
