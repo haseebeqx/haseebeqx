@@ -78,5 +78,5 @@ Turn a repeatable research or operational process into a focused workflow with s
 
 <div align="center">
 
-[Contact](https://haseebeqx.com/contact-me/) | [Testimonials](https://haseebeqx.com/#testimonials) | [Posts](https://haseebeqx.com/posts/)
+[Contact](https://haseebeqx.com/contact-me/) | [Testimonials](https://haseebeqx.com/#testimonials) | [Posts](https://haseebeqx.com/posts/) | [Case Studies](https://haseebeqx.com/case-studies/)
 </div>
